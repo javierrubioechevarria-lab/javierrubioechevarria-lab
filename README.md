@@ -5,7 +5,7 @@ Mathematics and Data Science student at **Universidad Complutense de Madrid**, c
 I like turning data into decisions: statistics, machine learning and applied AI for business.
 
 **Featured projects**
-- [Markov chain model of a tennis game](https://github.com/javierrubioechevarria-lab/tennis-markov-chain) – an absorbing Markov chain solved exactly and validated on 860,000 professional points: winning 64.2% of points on serve becomes winning 82% of service games.
+- [Markov chain model of a tennis game](https://github.com/javierrubioechevarria-lab/tennis-markov-chain) – an absorbing Markov chain solved exactly and validated on 860,000 professional points: winning 64.2% of points on serve becomes winning 81.6% of service games.
 - [Five families of ML models for tumour diagnosis](https://github.com/javierrubioechevarria-lab/ml-model-comparison) – nested cross-validation, corrected t-tests, cost-sensitive thresholds and a custom evolutionary classifier.
 
 **What I work with**
